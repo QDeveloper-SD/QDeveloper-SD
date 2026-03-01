@@ -16,10 +16,10 @@ located_in: Florida, United States
 current_job: Software Engineer
 education:
   [
-    "Self-Taught Developer",
+    "Experienced Developer",
     "Bachelor's in Health Services",
   ]
-company: Soulber
+company: Bright Citadel
 
 fields_of_interests:
   [
